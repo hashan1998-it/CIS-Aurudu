@@ -15,9 +15,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto ">
-          <nuxt-link to="/games" class="nav-item nav-link active px-5" href="#" >Games<span class="sr-only">(current)</span></nuxt-link>
-          <nuxt-link to="/auth/signin" class="nav-item nav-link active px-5" href="#" v-show="!$nuxt.$fire.auth.currentUser" >Log in<span class="sr-only">(current)</span></nuxt-link>
-          <nuxt-link to="/secret" class="nav-item nav-link active px-5" href="#" v-show="$nuxt.$fire.auth.currentUser">Authorized<span class="sr-only">(current)</span></nuxt-link>
+          <nuxt-link to="/games" class="nav-item nav-link active px-5" href="#" >ක්‍රීඩා<span class="sr-only">(current)</span></nuxt-link>
+          <nuxt-link to="/auth/signin" class="nav-item nav-link active px-5" href="#" v-show="!$nuxt.$fire.auth.currentUser" >ඇතුල් වෙමු <span class="sr-only">(current)</span></nuxt-link>
+          <nuxt-link to="/secret" class="nav-item nav-link active px-5" href="#" v-show="$nuxt.$fire.auth.currentUser">රහස්<span class="sr-only">(current)</span></nuxt-link>
         </div>
       </div>
     </nav>
