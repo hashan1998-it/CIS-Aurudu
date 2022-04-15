@@ -8,7 +8,7 @@
         <div class="card" style="width: 18rem">
           <img
             class="card-img-top"
-            src="@/static/papaya.jpg"
+            src="~/static/papaya.jpg"
             alt="Card image cap"
           />
           <div class="card-body">
@@ -23,7 +23,7 @@
         <div class="card" style="width: 18rem">
           <img
             class="card-img-top"
-            src="@/static/smile.png"
+            src="~/static/smile.png"
             alt="Card image cap"
             style="width: 286px; height: 286px"
           />
