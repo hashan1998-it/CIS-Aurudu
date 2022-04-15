@@ -41,7 +41,7 @@ export default {
   width: 110px;
   border-radius: 3px;
 }
-@media screen and (max-width: 335px) {
+@media screen and (max-width: 500px) {
     .landing-page h1 {
     font-size: 48px;
   }
